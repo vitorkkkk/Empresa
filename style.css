@@ -1,0 +1,36 @@
+h1 {
+  color:#ff0000;
+}
+img {
+  width: 200px;
+    height: auto;
+   margin-right: 10px;
+  float: right; 
+}
+
+body {
+  background-color: #bb8168 ; 
+}
+
+h2 {
+  color:#a60000;
+}
+
+h3 {
+  color:#610013;
+}
+
+h4{
+  color:#610013;
+}
+#octogno {
+   border: 20px inset #949494;
+  padding: ;
+   margin: cimapx ;
+  width: 350px;
+}
+ #logo {
+   border: 10px inset #949494;
+   padding: ;
+    margin: cimapx ;
+ }
